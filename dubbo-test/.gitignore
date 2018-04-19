@@ -1,0 +1,24 @@
+# Compile Files #
+*.class
+*.cache*
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+*idea
+*.log
+# IDE Files #
+.project
+.classpath
+.settings/
+logs/
+.project
+.classpath
+.settings
+*.cache.lock
+*.cache
+# Maven
+target/
+git-pull.bat
+git-push.bat
